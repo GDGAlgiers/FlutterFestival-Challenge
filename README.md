@@ -11,9 +11,9 @@ in the end, these features must remain implemented
 - Drag down image to pop screen
 
 
-HomePage             |  Detail
-:-------------------------:|:-------------------------:
-<img src="assets/1.PNG" alt="home" width="500"/>  |  <img src="assets/2.PNG" alt="Detail" width="500"/>
+|home screen|details screen|
+|:------------:|:------------:|
+![home](assets/1.png)|![details](assets/2.png)|
 
 ## how to participate ?
 - fork this repository 

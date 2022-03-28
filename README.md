@@ -18,11 +18,9 @@ in the end, these features must remain implemented
 ## how to participate ?
 - fork this repository 
 - add your changes
-- invite [GDG ALgier's account](https://github.com/GDGAlgiers16) to your repo 
 
 
-
-
+if you want your solution to stay private , create a new repo by using this template and invite [GDG ALgier's account](https://github.com/GDGAlgiers16) to your repo 
 
 good luck !
 

@@ -21,7 +21,7 @@ in the end, these features must remain implemented
 - invite [GDG ALgier's account](https://github.com/GDGAlgiers16) to your repo 
 
 
-NB : the fork must be private
+
 
 
 good luck !

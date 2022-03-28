@@ -21,10 +21,11 @@ in the end, these features must remain implemented
 ![home](assets/1.png)|![details](assets/2.png)|
 
 ## Steps to participate
-[ ] Fork the repository 
-[ ] Find the bugs and errors
-[ ] Fix the errors 
-[ ] Once you got a clean environment You WIN
+
+- [ ] Fork the repository 
+- [ ] Find the bugs and errors
+- [ ] Fix the errors 
+- [ ] Once you got a clean environment You WIN
 
 
 
